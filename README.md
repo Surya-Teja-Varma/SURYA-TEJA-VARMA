@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **Densly Connected Bi-Directional LSTM for Human Action Recognition**
 
-- 🌱 I’m currently learning **SQL,DJANGO**
+- 🌱 I’m currently learning **DJANGO**
 
 - 👯 I’m looking to collaborate on **Generative Ai**
 
 - 🤝 I’m looking for help with **Natural language processing**
 
-- 💬 Ask me about **Python,Html,Css,AI**
+- 💬 Ask me about **Python,Sql,Html,Css,AI,Javascript,MERN Stack**
 
 - 📫 How to reach me **Kalidindisuryatejavarma@gmail.com**
 
